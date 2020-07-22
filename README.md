@@ -4,9 +4,11 @@ without an initial value, just leave off the assignment part, like this:
 
 ##A variable can hold are numbers string and the bollean values.
 
-**What’s a keyword?
+##What’s a keyword?
 A: A keyword is a reserved word in
 JavaScript. JavaScript uses these reserved
 words for its own purposes, and it would
 be confusing to you and the browser if you
-started using them for your variables.**
+started using them for your variables.
+
+
