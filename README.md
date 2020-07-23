@@ -22,7 +22,11 @@
 	together. For instance, all the statements
 	within the block in a while statement are
 	executed if the condition of the while is true.
-	The same holds for a block in an if or else if.
+	The same holds for a block in an if or else if.  
+	eg {
+	}
+	
+	
 	
 	## What is psecdocode and how it works.
 	DECLARE three variables to hold the location of each cell of the ship. Let’s call them
