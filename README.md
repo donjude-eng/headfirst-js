@@ -23,6 +23,15 @@
 	within the block in a while statement are
 	executed if the condition of the while is true.
 	The same holds for a block in an if or else if.
+	
+	## What is psecdocode and how it works.
+	DECLARE three variables to hold the location of each cell of the ship. Let’s call them
+	location1, location2 and location3.
+	DECLARE a variable to hold the user’s current guess. Let’s call it guess.
+	DECLARE a variable to hold the number of hits. We’ll call it hits and set it to 0.
+	DECLARE a variable to hold the number of guesses. We’ll call it guesses and set it to 0.
+	DECLARE a variable to keep track of whether the ship is sunk or not. Let’s call it isSunk
+	and set it to false.
 
 
 
