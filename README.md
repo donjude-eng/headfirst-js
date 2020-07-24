@@ -25,8 +25,7 @@
 	The same holds for a block in an if or else if.  
 	eg {
 	}
-	
-	
+
 	
 	## What is psecdocode and how it works.
 	DECLARE three variables to hold the location of each cell of the ship. Let’s call them
