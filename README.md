@@ -35,7 +35,13 @@
 	DECLARE a variable to hold the number of guesses. We’ll call it guesses and set it to 0.
 	DECLARE a variable to keep track of whether the ship is sunk or not. Let’s call it isSunk
 	and set it to false.
-
+	
+	
+	TO DO
+	Create loop and get user guess
+	Check user guess
+	Check if ship has been sunk
+	Display stats to user
 	
 
 
