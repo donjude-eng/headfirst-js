@@ -37,11 +37,8 @@
 	and set it to false.
 	
 	
-	TO DO
-	Create loop and get user guess
-	Check user guess
-	Check if ship has been sunk
-	Display stats to user
+	
+	
 	
 
 
