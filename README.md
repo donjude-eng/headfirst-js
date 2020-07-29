@@ -36,6 +36,13 @@
 	DECLARE a variable to keep track of whether the ship is sunk or not. Let’s call it isSunk
 	and set it to false.
 	
+	##If you don’t provide an initial
+	value for a variable, then
+	JavaScript gives it a default value of
+	undefined. Think of the value undefined
+	as JavaScript’s way of saying “this variable
+	hasn’t been given a value yet.”
+	
 	
 	
 	
