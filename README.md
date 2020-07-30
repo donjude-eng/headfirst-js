@@ -73,6 +73,9 @@
 	false true = true // false
 	false false = false //false
 	
+	var randomLoc = Math.floor(Math.random() * 5);
+	We can use Math.floor to round down all these
+	numbers to their nearest integer value.
 	
 	
 	
