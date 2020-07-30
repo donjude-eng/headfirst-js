@@ -43,6 +43,28 @@
 	as JavaScript’s way of saying “this variable
 	hasn’t been given a value yet.”
 	
+	If we click cancel in in the prompt dialog box the value returns null.
+	
+	##Comparison Operators
+	Comparison operators compare
+	two values. Here are some common
+	comparison operators:
+	<
+	>
+	==
+	===
+	<=
+	>=
+	!=
+	means “less than”
+	means “greater than”
+	means “equal to”
+	means “exactly equal to” (we’ll
+	come back to this one later!)
+	means “less than or equal to”
+	means “greater than or equal to”
+	means “not equal to”
+	
 	
 	
 	
