@@ -65,6 +65,14 @@
 	means “greater than or equal to”
 	means “not equal to”
 	
+	let buyIt = (inStock || onSale);
+	let buyIt = (inStock && onSale);
+	
+	true true = true // true
+	true false = true // false
+	false true = true // false
+	false false = false //false
+	
 	
 	
 	
