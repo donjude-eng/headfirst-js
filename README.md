@@ -78,6 +78,10 @@
 	numbers to their nearest integer value.
 	
 	
+	Let conisderes a postive number as #true# and a negative number as #false#
+	##OR operator taken as *plus* and && Operator is taken as *Multiply*
+	
+	
 	
 	
 
