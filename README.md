@@ -35,7 +35,54 @@
 	DECLARE a variable to hold the number of guesses. We’ll call it guesses and set it to 0.
 	DECLARE a variable to keep track of whether the ship is sunk or not. Let’s call it isSunk
 	and set it to false.
-
+	
+	##If you don’t provide an initial
+	value for a variable, then
+	JavaScript gives it a default value of
+	undefined. Think of the value undefined
+	as JavaScript’s way of saying “this variable
+	hasn’t been given a value yet.”
+	
+	If we click cancel in in the prompt dialog box the value returns null.
+	
+	##Comparison Operators
+	Comparison operators compare
+	two values. Here are some common
+	comparison operators:
+	<
+	>
+	==
+	===
+	<=
+	>=
+	!=
+	means “less than”
+	means “greater than”
+	means “equal to”
+	means “exactly equal to” (we’ll
+	come back to this one later!)
+	means “less than or equal to”
+	means “greater than or equal to”
+	means “not equal to”
+	
+	let buyIt = (inStock || onSale);
+	let buyIt = (inStock && onSale);
+	
+	true true = true // true
+	true false = true // false
+	false true = true // false
+	false false = false //false
+	
+	var randomLoc = Math.floor(Math.random() * 5);
+	We can use Math.floor to round down all these
+	numbers to their nearest integer value.
+	
+	
+	Let conisderes a postive number as #true# and a negative number as #false#
+	##OR operator taken as *plus* and && Operator is taken as *Multiply*
+	
+	
+	
 	
 
 
