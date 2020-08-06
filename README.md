@@ -81,6 +81,21 @@
 	Let conisderes a postive number as #true# and a negative number as #false#
 	##OR operator taken as *plus* and && Operator is taken as *Multiply*
 	
+
+
+	**The seven laws**
+
+	Be honest to yourself
+	Be faithful in small things
+	Be persistant in your efforts and never give up hope.
+
+	begin the day with a plan and end with a review
+	code, Test, commit a new program for 100 days without a break
+
+
+	Remember, to the one who has more will be given.
+	Remember, freely you have recived, freely you give
+	
 	
 	
 	
